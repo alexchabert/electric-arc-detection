@@ -10,6 +10,6 @@ https://zenodo.org/record/5554722#.Ym_jGNPP3RY  , DOI: 10.5281/zenodo.5554722
 
 The 21 arrays corresponding to the 21 experiments are concatenated into one single array.
 
-#First unzip the multizip file using:
+#First unzip the multizip file
 
 #
