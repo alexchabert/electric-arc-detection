@@ -2,7 +2,8 @@
 
 #File content
 
-Complete file size is 68Mo. It is support data for the article \cite{}.
+Complete file size is 68Mo. It is support data for the article "AC Series Arc-Fault Detection With A Transformer Neural
+Network" \cite{}.
 
 It contains the normalized current, the ground truth label and the predicted arc fault probabilities. This file contains around 1 million points per array: normalized arc current, label signal, predicted probability signal.
 The arc current is a subsampled version of the Zenodo database: 
