@@ -12,6 +12,6 @@ The 21 arrays, corresponding to the 21 experiments, are concatenated into one si
 
 #First unzip the multizip file
 
-#Run Plot_Fig.py
+#Then run Plot_Fig.py
 
 
